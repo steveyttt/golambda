@@ -1,5 +1,6 @@
 # golambda
 
+* install docker
 * install sam local: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html
 * sam init --runtime go
 * go get ./...
